@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Abdelrahman-Momen
-- 👀 I’m interested in Embedded systems
-- 🌱 I’m currently learning ARM archtecture 
-- 💞️ I’m looking to collaborate on Embedded and Electronics Projects
+- 👀 I’m interested in Communication systems
+- 🌱 I’m currently learning Deep Learning for Communication Systems 
+- 💞️ I’m looking to collaborate on Cell Free mMIMO Projects
 - 📫 How to reach me via mail abod.amin@gmail.com
 
 <!---
